@@ -320,92 +320,10 @@ plt.axis("off")
 ---
 
 ## OUTPUT
-
-#The following outputs are obtained:
-
-#1. Original image displayed using OpenCV and Matplotlib.
+<img width="817" height="657" alt="KOW1" src="https://github.com/user-attachments/assets/1ea68019-26fc-4fb2-aab8-0dae917ad4ea" />
 
 
-<img width="817" height="657" alt="image" src="https://github.com/user-attachments/assets/f7af863f-feae-4a5d-9c40-2f8c9a28a1a8" />
-
-#2. Image with a line drawn from the top-left to the bottom-right.
-
-<img width="817" height="657" alt="image" src="https://github.com/user-attachments/assets/f9c614e9-06ea-4f26-b550-76afe62008ff" />
-
-
-
-
-#3. Image with a circle .
-
-
-<img width="817" height="657" alt="image" src="https://github.com/user-attachments/assets/78455d71-b6c2-493e-9260-222a35fa8d09" />
-
-
-
-#4. Image with a rectangle around its boundary.
-
-
-
-<img width="817" height="657" alt="image" src="https://github.com/user-attachments/assets/710fc6b5-cd0d-4764-aae6-d98465d6e92f" />
-
-
-#5. Image with the text "OpenCV Drawing".
-
-<img width="817" height="657" alt="image" src="https://github.com/user-attachments/assets/2176d54a-d8e9-417f-b021-f1192d45aa08" />
-
-
-
-#6.HSV,Grayscale, and YCrCb color space conversions.
-
-#HSV conversion
-<img width="817" height="657" alt="image" src="https://github.com/user-attachments/assets/2e978242-15f7-4dac-8c6f-6a80ec3008b5" />
-
-
-#grayscale conversion
-<img width="817" height="657" alt="image" src="https://github.com/user-attachments/assets/86fd6847-08a4-4d62-af86-46ec2cf95f92" />
-
-
-#YCrCb conversion
-
-<img width="817" height="657" alt="image" src="https://github.com/user-attachments/assets/fa903c3f-eedc-4928-98a2-5bfab8430600" />
-
-
-
-#7. Image converted from HSV back to RGB.
-
-
-
-<img width="817" height="657" alt="image" src="https://github.com/user-attachments/assets/55524352-14a5-4f13-ae78-579747fa1a44" />
-
-
-#8. Pixel value displayed and a white region added to the image.
-
-
-<img width="970" height="790" alt="image" src="https://github.com/user-attachments/assets/dfe82879-4571-4971-b8cb-88f9cd1c6961" />
-
-
-#9. Image resized to half its original dimensions.
-
-
-<img width="970" height="790" alt="image" src="https://github.com/user-attachments/assets/615ca338-0e41-4eca-a822-d678c7c292a6" />
-
-
-#10. Cropped region of interest displayed.
-
-<img width="970" height="790" alt="image" src="https://github.com/user-attachments/assets/2b4db710-f3f7-4638-874e-14a745037052" />
-
-
-
-#11. Horizontally flipped image displayed.
-
-<img width="970" height="790" alt="image" src="https://github.com/user-attachments/assets/c5f2ad1f-af96-4643-87bf-329341c07356" />
-
-
-
-#12. Vertically flipped image displayed.
-
-
-<img width="970" height="790" alt="image" src="https://github.com/user-attachments/assets/aea5b165-18e9-4ef6-b6f5-2e0ebf05a528" />
+<img width="970" height="790" alt="KOW2" src="https://github.com/user-attachments/assets/3c030a4f-9d3f-4dc8-b027-2fe86f044808" />
 
 
 
