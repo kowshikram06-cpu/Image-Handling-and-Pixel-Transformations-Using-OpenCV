@@ -1,7 +1,7 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 
 ## Name: KOWSHIK RAM.S
-## Register Number: 212225230143
+## Register Number: 212225230143 
 
 
 ---
